@@ -5,11 +5,13 @@ A Power BI dashboard featuring a nationwide map of all U.S. tornado paths, with 
 # 📸 Screenshots
 
 ![vis1](https://github.com/user-attachments/assets/bf0243b0-f3b8-461b-9c78-f4a65da78d48)
+<br><br><br><br>
 
-![vis2](https://github.com/user-attachments/assets/24bca3cb-77b7-4f12-b874-2bbdbc0f80b2)
+![vis2](https://github.com/user-attachments/assets/029a8e34-390a-4f03-8940-3253f77e2868)
+<br><br><br><br>
 
 ![vis3](https://github.com/user-attachments/assets/965379ee-cc51-4e7b-aef5-3f0c105d50e9)
-
+<br><br><br><br>
 
 # 📋 Instructions for Use
 
